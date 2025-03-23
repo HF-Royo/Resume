@@ -1,0 +1,28 @@
+{
+    "skills":[{
+            "id": "2", 
+            "src": "./img/tag-1.png",
+            "title": "HTML",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a nibh ipsum. Nulla facilisi. Proin eleifend et dolor ut viverra."
+        },
+        {
+            "id": "3", 
+            "src": "./img/feather-pen-2.png",
+            "title": "CSS",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a nibh ipsum. Nulla facilisi. Proin eleifend et dolor ut viverra."
+        },
+        {
+            "id": "4", 
+            "src": "./img/feather-pen-1.png",
+            "title": "REACT JS",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a nibh ipsum. Nulla facilisi. Proin eleifend et dolor ut viverra."
+        }],
+
+    "portfolio":[{
+            "id": "1", 
+            "src": "./img/Store-Filter.png",
+            "title": "E-commerce-Store",
+            "description": "A front-End website that has a filter feature for color of products and brands.",
+            "link": "View In Github"
+        }]
+}
